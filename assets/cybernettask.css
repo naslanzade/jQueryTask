@@ -1,0 +1,12 @@
+body {
+  background-color: #5b7490;
+}
+
+.table tr {
+  color: white;
+  text-align: center;
+}
+
+.table th {
+  font-family: cursive;
+}
